@@ -1,0 +1,4 @@
+---
+extra_exercise_files:
+  - server
+sandbox_image: eu.gcr.io/moocfi-public/tmc-sandbox-cyber-security-base
